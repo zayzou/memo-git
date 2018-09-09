@@ -4,3 +4,5 @@ Envoyez du code sur GitHub
 git push origin master
 origin : nom de remote
 master : nom de la branch
+Récupérez les modification
+git pull origin ma master
