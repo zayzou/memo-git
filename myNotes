@@ -12,3 +12,5 @@ git branch  new-branch : créer nouvelle branch
 git checkout branch : naviguer vers branch
 revenir à un commit précedent
 git checkout SHA1(de commit)
+créer et se positionner sur une nouvelle branch
+git checkout -b ma-branche
