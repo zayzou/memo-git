@@ -6,3 +6,9 @@ origin : nom de remote
 master : nom de la branch
 Récupérez les modification
 git pull origin ma master
+travailler avec branch
+git branch : list des branch
+git branch  new-branch : créer nouvelle branch
+git checkout branch : naviguer vers branch
+revenir à un commit précedent
+git checkout SHA1(de commit)
