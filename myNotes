@@ -14,3 +14,8 @@ revenir à un commit précedent
 git checkout SHA1(de commit)
 créer et se positionner sur une nouvelle branch
 git checkout -b ma-branche
+<<<<<<< HEAD
+=======
+supprimer une branche
+git branch -d the_local_branch
+>>>>>>> master
